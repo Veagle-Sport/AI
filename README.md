@@ -16,8 +16,7 @@ Veagle is a tech company providing smart recording cameras for sports facilities
 ## What we promise: 
 We are committing to ensuring that by the end of the AI-league, all the following functionalities in our model will be fully developed and operational:
 - **Pitch Detection:** The ability to accurately detect and analyze the pitch layout.
-- **Player Detection:** Robust detection of players on the field throughout the game.
-- **Player tracking:** Reliable detection of the ball, despite its rapid movements and small size.
+- **Player Tracking:** Reliable detection of the ball, despite its rapid movements and small size.
 - **Ball Detection:** Consistent tracking of individual players, managing identification despite occlusions.
 - **Team Classification:** Effective classification of players into their respective teams.
 - **Radar:** Effective classification of players into their respective teams.
@@ -33,9 +32,15 @@ pip install -r requirements.txt
 ```bash
  python main.py --source_video_path data/vid1.mp4 --target_video_path data/vid1-result.mp4 --device cuda --mode PLAYER_TRACKING
 ```
-Video to be analyzed: data/vid1.mp4
- Saved Video : data/vid1-result.mp
- Result saved in : AI\examples\soccer\results
+- Video to be analyzed: data/vid1.mp4
+- Saved Video : data/vid1-result.mp
+- Result saved in : AI\examples\soccer\results
+## Mode: 
+- **Pitch Tracking:** --mode PLAYER_TRACKING
+- **( Under process) Pitch Detection:** --mode PITCH_DETECTION 
+- **( Under process) Ball Detection:** --mode BALL_DETECTION
+- **( Under process) Team Classification:** --mode TEAM_CLASSIFICATION
+- **( Under process) Radar:** --mode RADAR
 ## datasets
 
 | use case                        | dataset                                                                                                                                                        |
