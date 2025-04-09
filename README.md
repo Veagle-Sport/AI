@@ -45,9 +45,9 @@ pip install -r requirements.txt
 
 | use case                        | dataset                                                                                                                                                        |
 |:--------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Veagle player detection         | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)](https://universe.roboflow.com/veagle/veagle/dataset/12)  |
-| soccer ball detection           | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)](https://universe.roboflow.com/roboflow-jvuqo/football-ball-detection-rejhg)  |
-| soccer pitch keypoint detection | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)](https://universe.roboflow.com/roboflow-jvuqo/football-field-detection-f07vi) |
+| Veagle player detection         | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)]([https://universe.roboflow.com/veagle/veagle/dataset/12](https://drive.google.com/file/d/1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76/view?usp=drive_link))  |
+| soccer ball detection           | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)]([https://universe.roboflow.com/roboflow-jvuqo/football-ball-detection-rejhg](https://drive.google.com/uc?id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V))  |
+| soccer pitch keypoint detection | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)](https://drive.google.com/uc?id=1Ma5Kt86tgpdjCTKfum79YMgNnSjcoOyf) |
 
 
 
