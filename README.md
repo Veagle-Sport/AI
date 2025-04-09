@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - Saved Video : data/vid1-result.mp
 - Result saved in : AI\examples\soccer\results
 ## Mode: 
-- **Pitch Tracking:** --mode PLAYER_TRACKING
+- **Player Tracking:** --mode PLAYER_TRACKING
 - **( Under process) Pitch Detection:** --mode PITCH_DETECTION 
 - **( Under process) Ball Detection:** --mode BALL_DETECTION
 - **( Under process) Team Classification:** --mode TEAM_CLASSIFICATION
