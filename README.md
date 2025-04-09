@@ -32,10 +32,10 @@ pip install -r requirements.txt
 ## Usage: 
 ```bash
  python main.py --source_video_path data/vid1.mp4 --target_video_path data/vid1-result.mp4 --device cuda --mode PLAYER_TRACKING
- Video to be analyzed: data/vid1.mp4
+```
+Video to be analyzed: data/vid1.mp4
  Saved Video : data/vid1-result.mp
  Result saved in : AI\examples\soccer\results
-```
 ## datasets
 
 | use case                        | dataset                                                                                                                                                        |
