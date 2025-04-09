@@ -42,7 +42,7 @@ pip install -r requirements.txt
 - **( Under process) Team Classification:** --mode TEAM_CLASSIFICATION
 - **( Under process) Radar:** --mode RADAR
 ## Datasets
-
+Add all files (file.pt) in /data
 | Use Case                        | Dataset                                                                                                                                                                 |
 |:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Veagle player detection         | [![Download Dataset](https://drive.google.com/uc?export=download&id=1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76)](https://drive.google.com/uc?export=download&id=1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76) |
