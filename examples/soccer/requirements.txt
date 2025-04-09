@@ -1,0 +1,8 @@
+ultralytics
+gdown
+supervision
+ultralytics
+tqdm
+cv2
+argparse
+typing
