@@ -46,7 +46,7 @@ Add all files (file.pt) in /data
 | Use Case                        | Dataset                                                                                                                                                                 |
 |:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Veagle player detection         | [![Download Dataset](https://drive.google.com/uc?export=download&id=1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76)](https://drive.google.com/uc?export=download&id=1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76) |
-| Soccer ball detection           | [![Download Dataset](https://drive.google.com/uc?export=download&id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V)](https://drive.google.com/uc?export=download&id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V)  |
+| Soccer ball detection           | [![Download Dataset]([https://drive.google.com/uc?export=download&id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V](https://drive.google.com/file/d/1aS6ZpmyKA_tOmopKVDtUgPefUh26sya6/view?usp=drive_link))](https://drive.google.com/file/d/1aS6ZpmyKA_tOmopKVDtUgPefUh26sya6/view?usp=drive_link)  |
 | Soccer pitch keypoint detection | [![Download Dataset](https://drive.google.com/file/d/1V58D_gqNOPiW6iJKO2YbeUQUxxE-vxrj/view?usp=drive_link)](https://drive.google.com/file/d/1V58D_gqNOPiW6iJKO2YbeUQUxxE-vxrj/view?usp=drive_link) |
 
 
