@@ -25,7 +25,7 @@ We are committing to ensuring that by the end of the AI-league, all the followin
 
 ## 💻 Installation: 
 ```bash
-pip install 
+pip install https://github.com/Veagle-Sport/AI.git
 cd examples/soccer
 pip install -r requirements.txt
 ```
