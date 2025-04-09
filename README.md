@@ -41,13 +41,14 @@ pip install -r requirements.txt
 - **( Under process) Ball Detection:** --mode BALL_DETECTION
 - **( Under process) Team Classification:** --mode TEAM_CLASSIFICATION
 - **( Under process) Radar:** --mode RADAR
-## datasets
+## Datasets
 
-| use case                        | dataset                                                                                                                                                        |
-|:--------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Veagle player detection         | [![Download Dataset](https://drive.google.com/file/d/1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76/view?usp=drive_link)]  |
-| soccer ball detection           | [![Download Dataset](https://drive.google.com/uc?id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V)]  |
-| soccer pitch keypoint detection | [![Download Dataset](https://drive.google.com/uc?id=1Ma5Kt86tgpdjCTKfum79YMgNnSjcoOyf)] |
+| Use Case                        | Dataset                                                                                                                                                                 |
+|:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Veagle player detection         | [![Download Dataset](https://drive.google.com/uc?export=download&id=1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76)](https://drive.google.com/uc?export=download&id=1hJhjDiovbhCL3WRpZjTLj1aTmeAg8P76) |
+| Soccer ball detection           | [![Download Dataset](https://drive.google.com/uc?export=download&id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V)](https://drive.google.com/uc?export=download&id=1isw4wx-MK9h9LMr36VvIWlJD6ppUvw7V)  |
+| Soccer pitch keypoint detection | [![Download Dataset](https://drive.google.com/uc?export=download&id=1Ma5Kt86tgpdjCTKfum79YMgNnSjcoOyf)](https://drive.google.com/uc?export=download&id=1Ma5Kt86tgpdjCTKfum79YMgNnSjcoOyf) |
+
 
 
 
